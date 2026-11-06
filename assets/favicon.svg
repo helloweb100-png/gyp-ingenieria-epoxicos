@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="GyP Ingeniería Epóxicos">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5bb4f7"/>
+      <stop offset="1" stop-color="#0b72d1"/>
+    </linearGradient>
+    <radialGradient id="s" cx=".35" cy=".35" r=".8">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".4" stop-color="#6cc0fa"/>
+      <stop offset="1" stop-color="#0b72d1"/>
+    </radialGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#fff"/>
+  <path d="M10 19c11-3 21-3 27 3 3 5 3 14 4 25-5-5-8-13-13-19-4-4-10-6-18-9z" fill="url(#a)"/>
+  <path d="M30 8l23 7c-4 12-9 22-12 34-2-12-4-28-11-41z" fill="#1e8ceb"/>
+  <path d="M54 17c-4 12-6 22-9 30-3 7-10 11-17 12 9-2 14-6 15-14 1-9 5-19 11-28z" fill="#0b1220"/>
+  <circle cx="14" cy="47" r="5.5" fill="url(#s)"/>
+  <path d="M17 48c10-1 20-7 28-17" fill="none" stroke="#8cc9fa" stroke-width="2.6" stroke-linecap="round"/>
+</svg>
